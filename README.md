@@ -37,11 +37,14 @@ I'm a B.Tech graduate interested in Data Analytics and Business Intelligence. I 
 Kakatiya Institute of Technology and Science, Warangal  
 2021 – 2025
 
+## 🎓 Certifications
+- Certificate Program in Data Analyst, Gold: FutureSkills Prime (MeitY – Nasscom)
+- Data Analyst Programme, Distinction: ExcelR
+
 ### 🌱 Currently Learning
 
 - Advanced SQL
 - Business Intelligence
-- Data Analytics and Visualization
 
 ### 🔗 Connect With Me
 
